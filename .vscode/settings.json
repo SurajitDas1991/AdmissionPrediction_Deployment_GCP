@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Anaconda\\envs\\GCP\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Home\\Git\\DeploymentDemos\\GCP\\Deployment_GCP"
+    }
